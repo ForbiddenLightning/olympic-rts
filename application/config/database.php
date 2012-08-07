@@ -48,10 +48,10 @@
 $active_group = 'default';
 $active_record = TRUE;
 
-$db['default']['hostname'] = 'localhost';
-$db['default']['username'] = '';
-$db['default']['password'] = '';
-$db['default']['database'] = '';
+$db['default']['hostname'] = 'mysql-shared-02.phpfog.com';
+$db['default']['username'] = 'jhodkinson-52541';
+$db['default']['password'] = 'tA88z03P21oT';
+$db['default']['database'] = 'olympic_rts_phpfogapp_com';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
 $db['default']['pconnect'] = TRUE;
