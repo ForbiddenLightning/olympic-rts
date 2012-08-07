@@ -39,7 +39,7 @@ $active_record = TRUE;
 
 $db['default']['hostname'] = "mysql-shared-02.phpfog.com";
 $db['default']['username'] = "jhodkinson-52541";
-$db['default']['password'] = "tA88z03P21oT";
+$db['default']['password'] = "jhodkinson-52541";
 $db['default']['database'] = "olympic_rts_phpfogapp_com";
 $db['default']['dbdriver'] = "mysql";
 $db['default']['dbprefix'] = "";
