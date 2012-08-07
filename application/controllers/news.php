@@ -6,16 +6,6 @@ class News extends CI_Controller {
 		$this->load->model('news_model');
 	}
 
-	public function index()
-	{
-		$data['news'] = $this->news_model->get_news();
-	}
-
-	public function view($slug)
-	{
-		$data['news'] = $this->news_model->get_news($slug);
-	}
-
 	public function index() {
 		$data['news'] = $this->news_model->get_news();
 		$data['title'] = 'News archive';
