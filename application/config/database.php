@@ -37,10 +37,10 @@
 $active_group = "default";
 $active_record = TRUE;
 
-$db['default']['hostname'] = "mysql-shared-02.phpfog.com";
-$db['default']['username'] = "jhodkinson-52541";
-$db['default']['password'] = "jhodkinson-52541";
-$db['default']['database'] = "olympic_rts_phpfogapp_com";
+$db['default']['hostname'] = "localhost";
+$db['default']['username'] = "root";
+$db['default']['password'] = "root";
+$db['default']['database'] = "ci_series";
 $db['default']['dbdriver'] = "mysql";
 $db['default']['dbprefix'] = "";
 $db['default']['pconnect'] = TRUE;
