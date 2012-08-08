@@ -1,7 +1,7 @@
 				<div id="content">
 					<div class="box">
 						<h2>Welcome to Olympic RTS</h2>
-						<img class="alignleft" src="images/logo lr.jpg" alt="" />
+						<img class="alignleft" src="<?php echo base_url() . 'css/images/logo.jpg'; ?>" alt="" />
 						<p>
 							You can edit this in <strong>application/views/news/index.php</strong>
 						</p>
