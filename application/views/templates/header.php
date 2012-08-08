@@ -32,6 +32,14 @@
 						</div>
 					</form>
 				</div>
+<div id="search">
+<form action="" method="post">
+<div>
+<input class="form-text" name="search" size="32" maxlength="64" />	
+</div>
+</form>
+</div>
+
 			</div>
 			<div id="page">
 				<div id="sidebar">
