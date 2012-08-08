@@ -142,9 +142,9 @@ ul.list li.first {
 	position: relative;
 	padding: 40px;
 	height: 70px;
-	background: #73B05E;
+	background: #0CF;
 	color: #3399FF;
-	box-shadow: inset 0px -10px 50px 0px #53903E;
+	box-shadow: inset 0px -10px 50px 0px #0CF;
 	overflow: hidden;
 }
 
@@ -172,10 +172,10 @@ ul.list li.first {
 	font-family: Abel, sans-serif;
 	line-height: 60px;
 	margin: 0;
-	background: #5B874B;
+	background: #000F;
 	height: 60px;
 	width: 1100px;
-	box-shadow: inset 0px -3px 20px 0px #466D37;
+	box-shadow: inset 0px -3px 20px 0px #000;
 	border-bottom: solid 1px #93D07E;
 	text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
 	border-top-left-radius: 6px;
