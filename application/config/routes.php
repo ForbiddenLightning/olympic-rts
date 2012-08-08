@@ -39,7 +39,7 @@
 */
 
 $route['news'] = 'news';
-$route['(:any)'] = 'news/view/$1';
-$route['default_controller'] = 'nems/view';
+$route['news/(:any)'] = 'news/view/$1';
+$route['default_controller'] = 'news';
 /* End of file routes.php */
 /* Location: ./application/config/routes.php */
