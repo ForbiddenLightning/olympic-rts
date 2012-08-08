@@ -1,7 +1,9 @@
 <html>
 <head>
 	<title><?php echo $title ?></title>
-	<link rel="stylesheet" type="text/css" href="./assets/css/prolific.css" />
+	<?php $this->load->helper('path');?>
+		
+	<link rel="stylesheet" type="text/css" href="<?php set_realpath('assets/css/prolific.css') ?>" />
 </head>
 <body>
 	<h1>Olympic RTS</h1>
