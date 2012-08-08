@@ -1,6 +1,7 @@
 <html>
 <head>
-	<title><?php echo $title ?> - CodeIgniter 2 Tutorial</title>
+	<title><?php echo $title ?></title>
+	<link rel="stylesheet" type="text/css" href="assets/css/prolific.css" />
 </head>
 <body>
-	<h1>CodeIgniter 2 Tutorial</h1>
+	<h1>Olympic RTS</h1>
