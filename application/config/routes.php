@@ -38,8 +38,8 @@
 |
 */
 
-$route['default_controller'] = 'welcome';
-$route['404_override'] = '';
-
+$route['news'] = 'news';
+$route['(:any)'] = 'news/view/$1';
+$route['default_controller'] = 'nems/view';
 /* End of file routes.php */
 /* Location: ./application/config/routes.php */
