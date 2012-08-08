@@ -144,7 +144,7 @@ ul.list li.first {
 	height: 70px;
 	background: #0CF;
 	color: #3399FF;
-	box-shadow: inset 0px -10px 50px 0px #0CF;
+	box-shadow: inset 0px -10px 50px 0px #10687E;
 	overflow: hidden;
 }
 
@@ -176,7 +176,7 @@ ul.list li.first {
 	height: 60px;
 	width: 1100px;
 	box-shadow: inset 0px -3px 20px 0px #000;
-	border-bottom: solid 1px #93D07E;
+	border-bottom: solid 1px #000;
 	text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
 	border-top-left-radius: 6px;
 	border-top-right-radius: 6px;
@@ -237,11 +237,11 @@ ul.list li.first {
 #search input.form-text {
 	border: 0;
 	padding: 9px 40px 9px 9px;
-	background: #5B874B url(images/search.png) top right no-repeat;
-	box-shadow: inset 0px -3px 20px 0px #466D37;
-	border-bottom: solid 1px #93D07E;
+	background: #0CF url(images/search.png) top right no-repeat;
+	box-shadow: inset 0px -3px 20px 0px #09313C;
+	border-bottom: solid 1px #0CF;
 	text-shadow: 0px 0px 1px rgba(0,0,0,0.5);
-	color: #fff;
+	color: #000;
 	border-radius: 6px;
 }
 
