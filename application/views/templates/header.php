@@ -26,22 +26,12 @@
 					<h1><a href="#">Olympic RTS</a></h1>
 				</div>
 				<div id="search">
-<head>
-<title>Please type your Username and Password... </title>
-<script language="JavaScript" type="text/JavaScript" src="login.js"></script>
-</head>
-<body bgcolor="#eeeeee">
-<form>
-<br>
-<center>
-Username: <input type="text" name="username" style="background:#bfbfbf;color:#212121;border-color:#212121;" onFocus="this.style.background = '#ffffff';" onBlur="this.style.background = '#bfbfbf';">
-<br>
-Password: <input type="password" name="password" style="background:#bfbfbf;color:#212121;border-color:#212121;" onFocus="this.style.background = '#ffffff';" onBlur="this.style.background = '#bfbfbf';">
-<br>
-<input type="button" value="Login" onClick="Login(this.form);" style="background:#bfbfbf;color:#000000;border-color:#212121;" onMouseOver="this.style.color = '#404040';" onMouseOut="this.style.color = '#000000';" onFocusr="this.style.color = '#404040';" onBlur="this.style.color = '#000000';">
-</center>
-</form>
-</body>				</div>
+					<form action="" method="post">
+						<div>
+							<input class="form-text" name="search" size="32" maxlength="64" />	
+						</div>
+					</form>
+				</div>
 			</div>
 			<div id="page">
 				<div id="sidebar">
