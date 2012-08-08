@@ -2,8 +2,9 @@
 <html>
 <head>
 	<title><?php echo $title; ?></title>
-	<link rel="stylesheet" type="text/css" href="<?php echo base_url() . 'ci/css/prolific.css'; ?>" />	
+	<link rel="stylesheet" type="text/css" href="<?php echo base_url() . 'css/prolific.css'; ?>" />
+	<link rel="stylesheet" type="text/css" href="<?php echo site_url() . 'css/prolific.css'; ?>" />	
 </head>
 <body>
 	<h1>Olympic RTS</h1>
-	<?php echo site_url('ci/css/prolific.css') ; ?>
+	<?php echo site_url('css/prolific.css') ; ?>
