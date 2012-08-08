@@ -16,7 +16,7 @@ Released   : 20120719
 
 a {
 	text-decoration: underline;
-	color: #00BFFF;
+	color: #5B874B;
 }
 
 a:hover {
@@ -24,7 +24,7 @@ a:hover {
 }
 
 body {
-	color: #4D4D4D;
+	color: #00BFFF;
 	font-size: 11.5pt;
 	line-height: 2em;
 }

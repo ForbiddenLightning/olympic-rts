@@ -53,7 +53,7 @@
 						<h3>YRS and other links</h3>
 						<ul class="list">
 							<li class="first"><a href="#">These</a></li>
-							<li><a href="http://www.youngrewiredstate.org/"></a>YRS Site</li>
+							<li><a href="http://www.youngrewiredstate.org/">YRS Site</a></li>
 							<li><a href="#"></a></li>
 							<li><a href="#">Be</a></li>
 							<li class="last"><a href="#">Edited</a></li>
