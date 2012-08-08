@@ -28,7 +28,10 @@
 				<div id="search">
 					<form action="" method="post">
 						<div>
-							<input class="form-text" name="search" size="32" maxlength="64" />	
+							<input class="form-text" name="search" size="32" maxlength="64" />
+<div>
+<input class="form-text" name="search" size="32" maxlength="64">
+</div>
 						</div>
 					</form>
 				</div>
