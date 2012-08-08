@@ -1,3 +1,4 @@
 olympic-rts TODO list
 =====================
-1. Win.
+1. Spell the description properly.
+2. Win.
